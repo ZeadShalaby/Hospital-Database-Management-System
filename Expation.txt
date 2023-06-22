@@ -1,0 +1,20 @@
+declare
+error_item varchar2(50);
+curr_item_lebel varchar2(100);
+begin
+ error_item := :system.trigger_item;
+if error_type = 'FRM' and error_code=40202 then
+ curr_item_lebel := get_item_property(error_item,prompt_text);
+ message(curr_item_lebel||'can''t left blank......');
+ message(curr_item_lebel||'can''t left blank......');
+elsif  error_type = 'FRM' and error_code=40400 then
+	curr_item_lebel := get_item_property(error_item,prompt_text);
+	message(curr_item_lebel||'UNABLE TO INSERT RECORD');
+	message(curr_item_lebel||'UNABLE TO ISERT RECORD');
+
+else
+message(error_text);
+message(error_text);
+set_item_property(error_item,current_record_attribute,'a_errors');
+end if;
+end;
