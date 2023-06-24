@@ -16,7 +16,7 @@
   </p>
 
 
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/Hospital-Database-Management-System?style=color:red) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Hospital-Database-Management-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Hospital-Database-Management-System)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Hospital-Database-Management-System?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Hospital-Database-Management-System) ![License](https://img.shields.io/github/license/ZeadShalaby/Hospital-Database-Management-System)
 
 ## Table Of Contents
 
