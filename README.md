@@ -1,5 +1,3 @@
-
-
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Hospital-Database-Management-System">
@@ -36,7 +34,8 @@
  <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
 </p>
 
- An Staff-Management-System system is technology designed to streamline core HR services and improve workforce productivity. It accomplishes these goals largely by automating labor-intensive, administrative tasks and using analytics to drive business decisions.
+A Hospital Management System enables you to add a scheduling option to your hospital's website, so that patients can easily schedule an appointment. Once your patient has booked an appointment, the Hospital Management System will match the patient's illness to the doctor's area of expertise.
+
 
 ## Contributing
 
