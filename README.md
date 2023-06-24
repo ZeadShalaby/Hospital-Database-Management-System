@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Hospital-Database-Management-System">
     <img src="https://i.imgur.com/hjIIaKo.png" alt="Logo" width="230" height="170" border="2px solid red"   > 
-    ![alt-text]https://i.imgur.com/hjIIaKo.png  border="2px solid red"  )
 
 
   </a>
