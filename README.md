@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Hospital-Database-Management-System">
-    <img src="https://i.imgur.com/hjIIaKo.png" alt="Logo" width="230" height="170" border="2px solid red"   > 
+    <img src="https://i.imgur.com/hjIIaKo.png" alt="Logo" width="260" height="190" border="2px solid red"   > 
 
 
   </a>
@@ -36,7 +36,7 @@
  <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
 </p>
 
-A Hospital Management System enables you to add a scheduling option to your hospital's website, so that patients can easily schedule an appointment. Once your patient has booked an appointment, the Hospital Management System will match the patient's illness to the doctor's area of expertise.
+* A Hospital Management System enables you to add a scheduling option to your hospital's website, so that patients can easily schedule an appointment. Once your patient has booked an appointment, the Hospital Management System will match the patient's illness to the doctor's area of expertise.
 
 
 ## Contributing
